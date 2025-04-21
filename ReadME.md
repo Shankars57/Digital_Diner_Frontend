@@ -43,7 +43,7 @@ digital-diner/
 1. Clone the repo
    bash
    Copy code
-   git clone https://github.com/Shankars57/digital-diner.git
+   git clone https://github.com/Shankars57/Digital_Diner
    cd digital-diner
 2. Setup MongoDB & PostgreSQL
    MongoDB should run on MongoDB atlas :
